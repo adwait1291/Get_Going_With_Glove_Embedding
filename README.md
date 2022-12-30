@@ -1,1 +1,2 @@
 ### An easy project to get started with GloVe embedding
+This project demonstrates the use of GloVe embedding to obtain vector representations of text and how to use those vectors to train binary classification models for sentiment analysis on the IMDB movie review dataset. A detailed explanation of the code can be found in this [Medium article](https://medium.com/mlearning-ai/get-going-with-glove-embedding-53b69e14f97d).
